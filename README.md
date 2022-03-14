@@ -1,5 +1,5 @@
 # Vesting Schedule
-Metegg vesting schedule for founders, employees, and advisors.
+Metaegg Metaverse Token vesting schedule for founders, employees, VCs, seed investors, advisors and private/public sales participants.
 
 ## How to Install?
 
