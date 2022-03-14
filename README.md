@@ -1,5 +1,5 @@
 # Vesting Schedule
-An easy to use ERC20 vesting schedule for founders, employees, and advisors.
+Metegg vesting schedule for founders, employees, and advisors.
 
 ## How to Install?
 
@@ -10,7 +10,7 @@ https://truffleframework.com
 ### Clone the Repository
 
 ```sh
-https://github.com/binodnp/vesting-schedule
+https://github.com/metaegg/token-vesting
 ```
 
 ### Install Packages
