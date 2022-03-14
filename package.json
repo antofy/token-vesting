@@ -1,7 +1,7 @@
 {
-  "name": "vestingschedule",
+  "name": "Metaegg vestingschedule",
   "version": "1.0.0",
-  "description": "Vesting Schedule for team and advisors",
+  "description": "Metaegg Metaverse Token vesting schedule for founders, employees, VCs, seed investors, advisors and private/public sales participants.",
   "main": "truffle-config.js",
   "directories": {
     "test": "test"
@@ -9,7 +9,7 @@
   "scripts": {
     "test": "truffle test"
   },
-  "author": "Binod Nirvan",
+  "author": "Ravikash Gupta",
   "license": "Apache-2.0",
   "dependencies": {
     "openzeppelin-solidity": "1.12.0"
