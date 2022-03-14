@@ -1,5 +1,5 @@
 {
-  "name": "Metaegg vestingschedule",
+  "name": "Metaegg Vesting Schedule",
   "version": "1.0.0",
   "description": "Metaegg Metaverse Token vesting schedule for founders, employees, VCs, seed investors, advisors and private/public sales participants.",
   "main": "truffle-config.js",
