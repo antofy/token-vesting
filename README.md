@@ -1,5 +1,5 @@
 # Vesting Schedule
-Metaegg Metaverse Token vesting schedule for founders, employees, VCs, seed investors, advisors and private/public sales participants.
+Antofy Metaverse Token vesting schedule for founders, employees, VCs, seed investors, advisors and private/public sales participants.
 
 ## How to Install?
 
@@ -10,7 +10,7 @@ https://truffleframework.com
 ### Clone the Repository
 
 ```sh
-https://github.com/metaegg/token-vesting
+https://github.com/antofy/token-vesting
 ```
 
 ### Install Packages
